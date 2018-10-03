@@ -14,3 +14,4 @@ pom.xml.asc
 *.iml
 .idea/
 profiles.clj
+.rebel_readline_history
